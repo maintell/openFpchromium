@@ -25,6 +25,9 @@ OpenFPChromium 是一个基于 Chromium 的开源指纹浏览器项目。
 - **AudioContext**
 - **媒体设备**
 - **ClientRects**
+ <img src="https://github.com/user-attachments/assets/011a88e6-4d8e-4dcc-a95c-b1d78bf1806c" alt="二维码示例" width="400">
+ <img src="https://github.com/user-attachments/assets/e24cf759-ac97-4aad-bfdd-27315576d2c7" alt="二维码示例" width="400">
+ <img src="https://github.com/user-attachments/assets/60856d69-af43-4205-b40a-f0670eaf2d69" alt="二维码示例" width="400">
 
 ## 🚧 未完成的任务
 
@@ -55,7 +58,9 @@ OpenFPChromium 是一个基于 Chromium 的开源指纹浏览器项目。
 ---
 马上到来的：
  - # 下个本版
- -  全新的客户端(vue+go+v13x内核)
+ -  全新的客户端(vue+go+v114内核)
+ - # 版本 v13x内核 
+ - # 多内核  
 ## 📬 联系我们
 - #以后如有使用教程，编译教程，或者最新客户端 优先发布在 qq中,
 - **源码交流群**: [QQ群 906833693 点击链接加入群聊【fp_openChromium】](https://qm.qq.com/q/8YTiF1yMXS)
