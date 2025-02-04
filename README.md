@@ -8,6 +8,7 @@ OpenFPChromium 是一个基于 Chromium 的开源指纹浏览器项目。
 - **2024-12-11**: 新开分支，继续开发并逐步开放客户端。
 
 ## ✅ 已完成的功能
+ 下载包可以可用包：https://github.com/FPEsocrter/openFpchromium/releases
 
 我们已经实现了以下功能：
 
