@@ -56,7 +56,7 @@ OpenFPChromium 是一个基于 Chromium 的开源指纹浏览器项目。
 已完成:
  **可用的 免费的指纹浏览器**
  - ***20240101写的自用的客户端（vue+java+go+v114内核）,修复部分不稳定的问题(ps:指纹 不完善的问题在下三个版本决绝)***  
-https://github.com/FPEsocrter/openFpchromium/releases/tag/v114_fp_chromium 在线地址
+
 ---
 马上到来的：
  - # 下个本版
